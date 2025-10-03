@@ -1,2 +1,6 @@
-## -do-now-markdown-practice-
-My memory at mesa it's when we play musical chair and I win 
+# -do-now-markdown-practice-
+
+# do now heading 
+
+My favorite memory as *MESA* it's when we play *musical chair* and I win this.
+This because we 
